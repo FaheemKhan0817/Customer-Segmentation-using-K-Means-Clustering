@@ -55,11 +55,11 @@ The dataset used in this project is the **Mall_Customers.csv** file, which conta
 
 ### Elbow Method for Optimal Clusters
 
-![Elbow Method Graph](C:\ML Projects\Customer-Segmentation-using-K-Means-Clustering\Elbow Graph.jpg)
+![Elbow Method Graph](Elbow Graph.jpg)
 
 ### Customer Clusters
 
-![Customer Segmentation Plot](C:\ML Projects\Customer-Segmentation-using-K-Means-Clustering\customer_groups.png)
+![Customer Segmentation Plot](customer_groups.png)
 
 
 
