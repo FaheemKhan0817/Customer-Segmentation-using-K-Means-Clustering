@@ -55,7 +55,7 @@ The dataset used in this project is the **Mall_Customers.csv** file, which conta
 
 ### Elbow Method for Optimal Clusters
 
-![Elbow Method Graph](Elbow Graph.jpg)
+![Elbow Method Graph](Elbow.png)
 
 ### Customer Clusters
 
